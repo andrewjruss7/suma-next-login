@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { login as loginApi } from "@/app/services/apiCalls";
+import { register as registerApi } from "@/app/services/apiCalls";
 import { useRouter } from 'next/navigation';
 
 export const useLogin = () => {
@@ -44,7 +45,29 @@ export const useLogin = () => {
         await router.push('/');
     };
 
-    return { isAuthenticated, doLogin, doLogout, isLoading, isSuccess, isError, data };
+    const doRegister = async () => {
+        setIsLoading(true);
+        setIsSuccess(false);
+        setIsError(false);
+
+        try {
+            const response = await registerApi();
+            if (response.ok) {
+                const userDataResponse = await response.json();
+                setIsSuccess(true);
+                setData(userDataResponse);
+                setIsAuthenticated(true);
+            } else {
+                setIsError(true);
+            }
+        } catch (error) {
+            setIsError(true);
+        } finally {
+            setIsLoading(false);
+        }
+    };
+
+    return { isAuthenticated, doLogin, doLogout, doRegister, isLoading, isSuccess, isError, data };
 };
 
 

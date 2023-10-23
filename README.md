@@ -34,3 +34,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+![Captura de pantalla 2023-10-23 a la(s) 10.37.53 a. m..png](..%2F..%2F..%2F..%2F..%2FCaptura%20de%20pantalla%202023-10-23%20a%20la%28s%29%2010.37.53%E2%80%AFa.%C2%A0m..png)
+![Captura de pantalla 2023-10-23 a la(s) 10.38.03 a. m..png](..%2F..%2F..%2F..%2F..%2FCaptura%20de%20pantalla%202023-10-23%20a%20la%28s%29%2010.38.03%E2%80%AFa.%C2%A0m..png)
+![Captura de pantalla 2023-10-23 a la(s) 10.38.26 a. m..png](..%2F..%2F..%2F..%2F..%2FCaptura%20de%20pantalla%202023-10-23%20a%20la%28s%29%2010.38.26%E2%80%AFa.%C2%A0m..png)
+![Captura de pantalla 2023-10-23 a la(s) 10.38.42 a. m..png](..%2F..%2F..%2F..%2F..%2FCaptura%20de%20pantalla%202023-10-23%20a%20la%28s%29%2010.38.42%E2%80%AFa.%C2%A0m..png)

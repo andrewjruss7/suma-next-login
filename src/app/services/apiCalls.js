@@ -21,3 +21,26 @@ export async function login(username, password) {
        console.log(error)
     }
 }
+
+let userCount = 1;
+
+export async function register() {
+    const apiUrl = `https://dummyjson.com/users/${userCount}`;
+
+    try {
+        const response = await fetch(apiUrl, {
+            method: 'GET',
+            cache: 'no-store',
+        });
+
+        if (response.status === 200) {
+            console.log('✅');
+            userCount++;
+            return await response;
+        } else {
+            console.log('❌');
+        }
+    } catch (error) {
+        console.error(error);
+    }
+}

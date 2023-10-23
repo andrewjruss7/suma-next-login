@@ -21,7 +21,7 @@ export default function LoginPage() {
         if (isSuccess) {
             router.push('/profile');
         } else if (isLoading) {
-            setError(null); // Limpia el mensaje de error si está cargando
+            setError(null);
         } else if (isError) {
             if (isError) {
                 setError('Credenciales incorrectas');

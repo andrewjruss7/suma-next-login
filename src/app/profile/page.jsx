@@ -14,25 +14,20 @@ export default function ProfileHome() {
         image: "https://robohash.org/autquiaut.png?size=50x50&set=set1",
     };
 
-
-    // Esta función se utiliza para abrir el modal
     const openModal = () => {
         setIsModalOpen(true);
     };
 
-    // Esta función se utiliza para cerrar el modal
     const closeModal = () => {
         setIsModalOpen(false);
     };
 
-    // Esta función se utiliza para cerrar la sesión
     const handleLogout = () => {
         doLogout();
         router.push('/');
     };
 
     useEffect(() => {
-        // Esta función se ejecutará solo en el lado del cliente
         openModal();
     }, []);
 
