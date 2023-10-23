@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'spring';
+    src: url('../../../public/fonts/Fontspring-DEMO-vanguardcf-bold.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'worksans';
+    src: url('../../../public/fonts/WorkSans-VariableFont_wght.ttf') format('opentype');
+}
