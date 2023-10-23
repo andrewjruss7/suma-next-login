@@ -34,9 +34,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![Captura de pantalla 2023-10-23 a la(s) 10 38 42 a  m](https://github.com/andrewjruss7/suma-next-login/assets/48565558/414c3ba5-45c8-41db-9f13-f29e8a92f9f4)
+![Captura de pantalla 2023-10-23 a la(s) 10 38 26 a  m](https://github.com/andrewjruss7/suma-next-login/assets/48565558/34b96366-e439-4237-9bd6-8cb7cad0c153)
+![Captura de pantalla 2023-10-23 a la(s) 10 38 03 a  m](https://github.com/andrewjruss7/suma-next-login/assets/48565558/0c9ef315-4df9-4c66-a2ab-c6740e0c6414)
+![Captura de pantalla 2023-10-23 a la(s) 10 37 53 a  m](https://github.com/andrewjruss7/suma-next-login/assets/48565558/c90dfb6c-ecc3-4cf5-9b04-d53d766b392f)
 
 
-![Captura de pantalla 2023-10-23 a la(s) 10.37.53 a. m..png](..%2F..%2F..%2F..%2F..%2FCaptura%20de%20pantalla%202023-10-23%20a%20la%28s%29%2010.37.53%E2%80%AFa.%C2%A0m..png)
-![Captura de pantalla 2023-10-23 a la(s) 10.38.03 a. m..png](..%2F..%2F..%2F..%2F..%2FCaptura%20de%20pantalla%202023-10-23%20a%20la%28s%29%2010.38.03%E2%80%AFa.%C2%A0m..png)
-![Captura de pantalla 2023-10-23 a la(s) 10.38.26 a. m..png](..%2F..%2F..%2F..%2F..%2FCaptura%20de%20pantalla%202023-10-23%20a%20la%28s%29%2010.38.26%E2%80%AFa.%C2%A0m..png)
-![Captura de pantalla 2023-10-23 a la(s) 10.38.42 a. m..png](..%2F..%2F..%2F..%2F..%2FCaptura%20de%20pantalla%202023-10-23%20a%20la%28s%29%2010.38.42%E2%80%AFa.%C2%A0m..png)
